@@ -1,0 +1,43 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  background-size: cover;
+  background-color: azure;
+  margin-top: 100px;
+  width: 250px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  font-family: sans-serif;
+  align-items: center;
+  margin-left: 200px;
+  padding-top: 40px;
+ 
+}
+.main{
+  width: 550px;
+  height: 300px;
+  margin: 8px auto;
+ 
+  background-color: rgba(0,0,0,0.23);
+  border-radius: 20px;
+  box-shadow: 0 0 0 17px rgba(25, 20, 25,);
+}
+p{
+  text-align: center;
+  font-family: sans-serif;
+  letter-spacing: 1px;
+
+}
+.bi{
+  color: green;
+  font-size: 180px;
+  align-items: center;
+ 
+  position: relative;
+  margin-left: 150px;
+}
+
+

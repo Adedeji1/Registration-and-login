@@ -1,0 +1,63 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  background: url(https://th.bing.com/th/id/R.3a12924799ef6cb8eac40172b15fb5f8?rik=Z3aR0jfdfK%2fbDw&pid=ImgRaw&r=0);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  font-family: sans-serif;
+  
+}
+.head{
+  width: 350px;
+  margin: 8px auto;
+  padding: 8px;
+  background-color: rgba(0,0,0,0.23);
+  border-radius: 20px;
+  box-shadow: 0 0 0 17px rgba(25, 20, 25,);
+}
+.middle{
+  padding-top: 40px;
+  text-align: center;
+}
+h1{
+  font-size: 50px;
+  color: white;
+  font-family: sans-serif;
+}
+form{
+  text-align: center;
+
+}
+form input, button{
+  width: 300px;
+  height: 40px;
+  border: none;
+  margin-bottom: 30px;
+  padding-left: 5px;
+  box-sizing: border-box;
+  font-size: 15px;
+  outline: none;
+
+}
+form span{
+  position: relative;
+}
+form input{
+  padding-right: 40px;
+  padding-left: 30px;
+}
+form button{
+  background-color: blue;
+  letter-spacing: 1px;
+  font-weight: bold;
+  border-radius: 50px;
+
+}
+form button:hover{
+  box-shadow: 2px 2px 5px #555;
+  background-color: #b511f6;
+  color: white;
+}
